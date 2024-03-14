@@ -18,6 +18,7 @@ To run:
     ```
 
 Here's a screenshot:
+
 <img src="https://github.com/ZyadZ2000/CppChip8Emu/assets/85132955/28798ee8-7dc9-49c7-aad1-9789662c0fae" style="width:50%;" />
 
 The key mapping is as follows - 
