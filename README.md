@@ -13,12 +13,14 @@ To compile:
 ```
 
 To run:
+
     ```
        cd cmake-build-debug
        ./Chip8_Emulator ../roms/PONG
     ```
 
 To get some help run:
+
     ```
        cd cmake-build-debug    
        ./Chip8_Emulator -help
