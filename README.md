@@ -14,16 +14,14 @@ To compile:
 
 To run:
     ```
-        cd cmake-build-debug
-        
-        ./Chip8_Emulator ../roms/PONG
+       cd cmake-build-debug
+       ./Chip8_Emulator ../roms/PONG
     ```
 
 To get some help run:
     ```
-        cd cmake-build-debug
-        
-        ./Chip8_Emulator -help
+       cd cmake-build-debug    
+       ./Chip8_Emulator -help
     ```
 Use the -t flag to print the program counter, register values and opcode executed each cycle.
 
