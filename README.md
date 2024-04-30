@@ -53,3 +53,8 @@ The key mapping is as follows -
 | `D`        | `R`          |
 | `E`        | `F`          |
 | `F`        | `V`          |
+
+## License
+
+This project is licensed under the GPLv3+.
+The file LICENSE includes the full license text.
